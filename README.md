@@ -9,7 +9,7 @@
 
 ..in order for the django social-auth to work.
 
-### Facebook OAUTH integration
+### Facebook integration
 
 Add https://mydomain/social-auth/complete/facebook to Valid Redirect URLs
 
