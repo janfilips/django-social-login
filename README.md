@@ -2,7 +2,7 @@
 
 ## Notes on configuration
 
-1) Nginx config must contain -
+Nginx config must contain -
 
     proxy_set_header Host $host;
     proxy_set_header X-Forwarded-Proto $scheme;
