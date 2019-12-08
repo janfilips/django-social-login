@@ -117,6 +117,7 @@ WSGI_APPLICATION = "config.wsgi.application"
 # Login URLs
 
 LOGIN_URL = "/login"
+LOGIN_REDIRECT_URL = "home"
 LOGIN_ERROR_URL = "/login-error/"
 # SOCIAL_AUTH_NEW_USER_REDIRECT_URL = '/new-users-redirect-url/'
 
